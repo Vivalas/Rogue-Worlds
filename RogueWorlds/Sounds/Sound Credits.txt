@@ -1,0 +1,72 @@
+Most sounds can be found on FreeSound.org.
+
+Some of them, particularly item get and drop sounds, are holdovers from my old project SS13NS, and as such I have no idea where I got them and nothing else fits.
+
+Derived sounds are presented under the license of their source material.
+
+(Chemicals/Magnet.ogg) hiddenpersuader: loose-connection-feedback-hum 
+(Chemicals/Squeak.ogg) freqman: squeaky-valve
+(Chemicals/Boil.ogg) unfa: boiling-towel
+(Chemicals/PlaceFlask.ogg) j1987: glasses
+(Chemicals/Crunch.ogg) thecityrings: mysound-cevl-miguel-araujo
+(Chemicals/Burn.ogg) mrauralization: gas-stove
+(Chemicals/Gas.ogg) mrmccormack: mrm-gas-steam-escape
+(Chemicals/Pour.ogg) hdrck16: pouring-water
+(Chemicals/Dunk.ogg) jc144940: rock-in-water-splash-plop-1
+
+(Combat/Punch1.ogg) thefsoundman: punch-02
+(Combat/Punch2.ogg) ztree1: punch
+(Combat/BlockPunch.ogg) lewisisminted: punch-1
+(Combat/Sword1.ogg) fotoshop: ripping-paper
+(Combat/Sword2.ogg) amsempl: slice-apple
+(Combat/Sword3.ogg) luffy: tearing-beef-jerky
+(Combat/Miss*.ogg) pogotron: swishes
+(Combat/BlockSword1.ogg) jobro: sword-pulled-2
+(Combat/BlockSword2.ogg) jobro: sword-pulled-3
+(Combat/BlockMetal*.ogg) jaide714: sword-hit
+(Combat/Dizzy.ogg) cgeffex: cartoon-9-boing
+(Combat/DodgeBullet*.ogg) kmoon: bullet-flyby-2, bullet-flyby-3, bullet-flyby-4
+(Combat/Ricochet*.ogg) rakurka: incoming-ricochets-2
+(Combat/RevolverShotCock.ogg) dredile: revolvercock1
+(Combat/Stab*.ogg) alienistcog: cardboard-stabs
+(Combat/Blunt*.ogg) project-trident: brutal-kung-fu-punches
+(Combat/BlockWood*.ogg) altfuture: hitting-wood
+(Combat/RevolverReload.ogg) dredile: clean-revolver-reload
+(Combat/Collapse.ogg) cinevid: fallingdownsteps
+
+(Footsteps/Wood*.ogg) cmusounddesign: footsteps
+(Footsteps/Metal*.ogg) cmusounddesign: mp-footsteps
+(Footsteps/Support*.ogg) nickb1608: footsteps-on-metal
+
+(Inventory/Equip.ogg) mwmarsh: cotton-t-shirt-rustle.aiff
+
+(Seals/Teleport.ogg) tmokonen: zap
+
+(Ship/Creak*.ogg)
+skyumori: door-close-squeuak-03
+stijnjobse: kast-extreem-kraken
+lolamadeus: heatpress-squeaking-and-creaking
+rucisko: the-creak
+
+(Ship/Engine.ogg) jilliancallahan: jill-s-propellor-sounds.zip
+
+(Structure/Fan.ogg) smiley-dan: fan-ticking-loop
+(Structure/Lever.ogg) felipelnv: noise-of-a-fountain-lever
+(Structure/Lift*.ogg) ninebilly: elevator
+(Structure/DoorOpen.ogg) pagancow: dorm-door-opening
+(Structure/DoorCloseSoft.ogg) pagancow: dorm-door-close
+(Structure/DoorClose.ogg, DoorOpenOld.ogg) fresco: open-and-close-wooden-door
+(Structure/Creak.ogg) q-k: creak
+
+(Tools/Wrench.ogg) orestes910: ratchet1
+(Tools/Lockpick*.ogg)
+florian-reinke: click1, click2
+adam-n: pen-click-3
+(Tools/Crowbar) megapenguin13: bottle-cap-pop.aif
+(Tools/Hammer) krissyeliot: hammering-l
+
+
+
+
+(Weather/WindLoop.ogg) warwickallison: windloop
+

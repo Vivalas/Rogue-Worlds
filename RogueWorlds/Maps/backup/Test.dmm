@@ -1,0 +1,101 @@
+"a" = (/turf,/area/outside)
+"b" = (/tile/floor/metal,/tile/wall/metal,/turf,/area)
+"c" = (/tile/floor/metal,/ship/bed,/turf,/area)
+"d" = (/tile/floor/metal,/turf,/area)
+"e" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (NORTH)"; icon_state = "map"; dir = 1},/ship/bed,/turf,/area)
+"f" = (/tile/floor/metal,/ship/ladder,/turf,/area)
+"g" = (/tile/floor/metal,/ship/table,/item/construction/bars/planks,/item/construction/bars/planks,/turf,/area)
+"h" = (/tile/floor/metal,/ship/table,/item/construction/sheets/brass,/item/construction/sheets/brass,/turf,/area)
+"i" = (/tile/floor/metal,/ship/table,/item/construction/sheets,/item/construction/sheets,/turf,/area)
+"j" = (/tile/floor/metal,/ship/table,/item/light/lamp{tag = "icon-map (NORTH)"; icon_state = "map"; dir = 1},/item/construction/bars,/item/construction/bars,/turf,/area)
+"k" = (/tile/floor/metal,/ship/table,/item/construction/bars/brass_bars,/item/construction/bars/brass_bars,/turf,/area)
+"l" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (WEST)"; icon_state = "map"; dir = 8},/turf,/area)
+"m" = (/tile/floor/metal,/tile/window/metal,/turf,/area/border)
+"n" = (/tile/floor/metal,/tile/window/metal,/turf,/area)
+"o" = (/tile/floor/metal,/ship/door/iron/locked,/turf,/area)
+"p" = (/tile/floor/metal,/ship/railing{tag = "icon-default (NORTH)"; icon_state = ""; dir = 1},/turf,/area/outside)
+"q" = (/tile/floor/metal,/ship/railing{tag = "icon-default (NORTHEAST)"; icon_state = ""; dir = 5},/turf,/area/outside)
+"r" = (/tile/floor/metal,/ship/box,/turf,/area)
+"s" = (/tile/floor/metal,/ship/table,/turf,/area)
+"t" = (/tile/floor/metal,/turf,/area/start)
+"u" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (WEST)"; icon_state = "map"; dir = 8},/turf,/area/outside)
+"v" = (/tile/floor/metal,/ship/railing{tag = "icon-default (EAST)"; icon_state = ""; dir = 4},/turf,/area/outside)
+"w" = (/tile/floor/metal,/ship/table,/item/tool/wrench,/item/tool/screwdriver,/turf,/area)
+"x" = (/tile/floor/metal,/ship/table,/item/tool/hammer,/item/tool/crowbar,/turf,/area)
+"y" = (/tile/floor/metal,/ship/door/iron,/turf,/area)
+"z" = (/tile/floor/metal,/turf,/area/outside)
+"A" = (/tile/floor/metal,/ship/table,/item/weapon/sword,/turf,/area)
+"B" = (/tile/floor/metal,/ship/table,/item/tool/extinguisher,/turf,/area)
+"C" = (/tile/floor/metal,/ship/railing,/turf,/area/outside)
+"D" = (/tile/floor/metal,/ship/railing{tag = "icon-default (SOUTHEAST)"; icon_state = ""; dir = 6},/turf,/area/outside)
+"E" = (/tile/floor/metal,/ship/table,/item/healing/sutures,/item/healing/sutures,/turf,/area)
+"F" = (/tile/floor/metal,/ship/table,/item/healing/tweezers,/turf,/area)
+"G" = (/tile/floor/metal,/tile/wall,/turf,/area)
+"H" = (/tile/floor/metal,/tile/wall_frame,/turf,/area)
+"I" = (/tile/floor/metal,/ship/table,/item/light/lantern,/turf,/area)
+"J" = (/tile/floor/metal,/ship/table,/item/container/backpack,/turf,/area)
+"K" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (EAST)"; icon_state = "map"; dir = 4},/turf,/area)
+"L" = (/tile/floor/metal,/item/light/lamp,/turf,/area)
+"M" = (/tile/floor/metal,/ship/door/iron,/turf,/area/border)
+"N" = (/tile/floor/metal,/ship/railing{tag = "icon-default (WEST)"; icon_state = ""; dir = 8},/ship/railing/inside{dir = 4; icon_state = "inside"; pixel_y = 32; tag = "icon-inside (EAST)"},/turf,/area/outside)
+"O" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (NORTH)"; icon_state = "map"; dir = 1},/turf,/area/outside)
+"P" = (/tile/floor/metal,/ship/railing{tag = "icon-default (EAST)"; icon_state = ""; dir = 4},/ship/railing/inside{dir = 8; icon_state = "inside"; pixel_y = 32; tag = "icon-inside (EAST)"},/turf,/area/outside)
+"Q" = (/tile/floor/metal,/ship/railing{tag = "icon-default (SOUTHWEST)"; icon_state = ""; dir = 10},/turf,/area/outside)
+"R" = (/tile/floor,/turf,/area/outside)
+"S" = (/ship/ladder/down,/tile/floor,/turf,/area/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabbbbbbbbbbbbbbbbbbbbbbaaaaa
+aaabcdedcbfdddghijkgddddbaaaaa
+aaabcdcdcbldddddddddddddmaaaaa
+aaabdddddbddddddddddddddbaaaaa
+aaabnnonnbbbddddddddddddbpqaaa
+aaabddddrrrbdddstttsddddbuvaaa
+aaabdddddrrbdddwtttxddddyzvaaa
+aaabddddddrbdddAtttBddddbCDaaa
+aaabdddddddydddEtttFddddbaaaaa
+aaabdGHGdddbdddItttJdddKbaaaaa
+aaabdddddddbldddddddddddmaaaaa
+aaabdddLdddbddddddddddddbaaaaa
+aaabbbbbbbbbbbbbbbbMbbbbbaaaaa
+aaaaaaaaaaaaaaaaaNzzOzPaaaaaaa
+aaaaaaaaaaaaaaaaaQCCCCDaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaRRRRRRRRRRRRRRRRRRRRRRaaaaa
+aaaRRRRRRRSRRRRRRRRRRRRRRaaaaa
+aaaRRRRRRRRRRRRRRRRRRRRRRaaaaa
+aaabbmmbbRRRRRRRRRRRRRRRRaaaaa
+aaabsddsbRRRRRRRRRRRRRRRRaaaaa
+aaamdddsbRRRRRRRRRRRRRRRRaaaaa
+aaabsddsbRRRRRRRRRRRRRRRRaaaaa
+aaabsdddyRRRRRRRRRRRRRRRRaaaaa
+aaabsdddyRRRRRRRRRRRRRRRRaaaaa
+aaabsddsbRRRRRRRRRRRRRRRRaaaaa
+aaamdddsbRRRRRRRRRRRRRRRRaaaaa
+aaabsddsbRRRRRRRRRRRRRRRRaaaaa
+aaabbmmbbRRRRRRRRRRRRRRRRaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

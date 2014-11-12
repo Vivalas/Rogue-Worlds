@@ -1,0 +1,116 @@
+"aa" = (/turf,/area/outside)
+"ab" = (/tile/floor/metal,/tile/wall/metal,/turf,/area)
+"ac" = (/tile/floor/metal,/ship/bed,/turf,/area)
+"ad" = (/tile/floor/metal,/turf,/area)
+"ae" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (NORTH)"; icon_state = "map"; dir = 1},/ship/bed,/turf,/area)
+"af" = (/tile/floor/metal,/ship/ladder,/turf,/area)
+"ag" = (/tile/floor/metal,/ship/table,/item/construction/sheets/glass,/item/construction/sheets/glass,/turf,/area)
+"ah" = (/tile/floor/metal,/ship/table,/item/construction/sheets/brass,/item/construction/sheets/brass,/turf,/area)
+"ai" = (/tile/floor/metal,/ship/table,/item/construction/sheets,/item/construction/sheets,/turf,/area)
+"aj" = (/tile/floor/metal,/ship/table,/item/light/lamp{tag = "icon-map (NORTH)"; icon_state = "map"; dir = 1},/item/construction/bars,/item/construction/bars,/turf,/area)
+"ak" = (/tile/floor/metal,/ship/table,/item/construction/bars/brass,/item/construction/bars/brass,/turf,/area)
+"al" = (/tile/floor/metal,/ship/table,/item/construction/bars/planks,/item/construction/bars/planks,/turf,/area)
+"am" = (/tile/floor/metal,/ship/bed,/mob/human/sound_tester,/turf,/area)
+"an" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (WEST)"; icon_state = "map"; dir = 8},/turf,/area)
+"ao" = (/tile/floor/metal,/tile/window/metal,/turf,/area/border)
+"ap" = (/tile/floor/metal,/tile/window/metal,/turf,/area)
+"aq" = (/tile/floor/metal,/ship/door/iron/locked{locked = "Security"},/turf,/area)
+"ar" = (/tile/floor/metal,/ship/railing{tag = "icon-1"; icon_state = "1"},/ship/equipment/console/nav,/turf,/area/outside)
+"as" = (/tile/floor/metal,/ship/railing{tag = "icon-1"; icon_state = "1"},/ship/equipment/console/helm,/turf,/area/outside)
+"at" = (/tile/floor/metal,/ship/railing{tag = "icon-5"; icon_state = "5"},/ship/equipment/console/throttle,/turf,/area/outside)
+"au" = (/tile/floor/metal,/ship/box,/turf,/area)
+"av" = (/tile/floor/metal,/ship/table,/turf,/area)
+"aw" = (/tile/floor/metal,/turf,/area/start)
+"ax" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (WEST)"; icon_state = "map"; dir = 8},/turf,/area/outside)
+"ay" = (/tile/floor/metal,/turf,/area/outside)
+"az" = (/tile/floor/metal,/ship/railing{tag = "icon-4"; icon_state = "4"},/turf,/area/outside)
+"aA" = (/tile/floor/metal,/ship/table,/item/tool/wrench,/item/tool/screwdriver,/turf,/area)
+"aB" = (/tile/floor/metal,/ship/table,/item/tool/hammer,/item/tool/crowbar,/turf,/area)
+"aC" = (/tile/floor/metal,/ship/door/iron/locked,/turf,/area)
+"aD" = (/tile/floor/metal,/item/locks/key{lockcode = "Locksmith"},/turf,/area)
+"aE" = (/tile/floor/metal,/ship/table,/item/weapon/sword,/turf,/area)
+"aF" = (/tile/floor/metal,/ship/table,/item/tool/extinguisher,/turf,/area)
+"aG" = (/tile/floor/metal,/ship/railing{tag = "icon-2"; icon_state = "2"},/turf,/area/outside)
+"aH" = (/tile/floor/metal,/ship/railing{tag = "icon-6"; icon_state = "6"},/turf,/area/outside)
+"aI" = (/tile/floor/metal,/ship/door/iron/locked{locked = "Locksmith"},/turf,/area)
+"aJ" = (/tile/floor/metal,/ship/table,/item/healing/sutures,/item/healing/sutures,/turf,/area)
+"aK" = (/tile/floor/metal,/ship/table,/item/healing/tweezers,/turf,/area)
+"aL" = (/tile/floor/metal,/ship/table,/item/light/lantern,/turf,/area)
+"aM" = (/tile/floor/metal,/ship/table,/item/container/backpack,/turf,/area)
+"aN" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (EAST)"; icon_state = "map"; dir = 4},/turf,/area)
+"aO" = (/tile/floor/metal,/ship/table,/item/tool/lockpicks,/turf,/area)
+"aP" = (/tile/floor/metal,/item/light/lamp,/ship/table,/item/construction/bars/gold,/turf,/area)
+"aQ" = (/tile/floor/metal,/ship/table,/ship/equipment/locksmith_machine,/turf,/area)
+"aR" = (/tile/floor/metal,/ship/table,/item/construction/sprockets,/item/construction/sprockets,/turf,/area)
+"aS" = (/tile/floor/metal,/ship/table,/item/construction/bars/brass,/turf,/area)
+"aT" = (/tile/floor/metal,/ship/door/iron,/turf,/area/border)
+"aU" = (/tile/floor/metal,/ship/railing{tag = "icon-8"; icon_state = "8"},/turf,/area/outside)
+"aV" = (/tile/floor/metal,/item/light/lamp{tag = "icon-map (NORTH)"; icon_state = "map"; dir = 1},/turf,/area/outside)
+"aW" = (/tile/floor/metal,/ship/railing{tag = "icon-10"; icon_state = "10"},/turf,/area/outside)
+"aX" = (/tile/floor,/ship/railing{tag = "icon-9"; icon_state = "9"},/turf,/area/outside)
+"aY" = (/tile/floor,/ship/railing{tag = "icon-1"; icon_state = "1"},/turf,/area/outside)
+"aZ" = (/tile/floor,/ship/railing{tag = "icon-5"; icon_state = "5"},/turf,/area/outside)
+"ba" = (/tile/floor,/ship/railing{tag = "icon-8"; icon_state = "8"},/turf,/area/outside)
+"bb" = (/tile/floor,/turf,/area/outside)
+"bc" = (/ship/ladder/down,/tile/floor,/turf,/area/outside)
+"bd" = (/tile/floor,/ship/railing{tag = "icon-4"; icon_state = "4"},/turf,/area/outside)
+"be" = (/tile/floor,/mob/human/sound_tester/madoka{lightRadius = 2; lightValue = 1},/turf,/area/outside)
+"bf" = (/tile/floor/metal,/ship/door/iron/locked{locked = "SecStorage"},/turf,/area)
+"bg" = (/tile/floor,/ship/railing{tag = "icon-2"; icon_state = "2"},/turf,/area/outside)
+"bh" = (/tile/floor,/ship/railing{tag = "icon-6"; icon_state = "6"},/turf,/area/outside)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaababababababababababababababababababababababaaaaaaaaaa
+aaaaaaabacadaeadacabafadadadagahaiajakaladadadadabaaaaaaaaaa
+aaaaaaabacadamadacabanadadadadadadadadadadadadadaoaaaaaaaaaa
+aaaaaaabadadadadadabadadadadadadadadadadadadadadabaaaaaaaaaa
+aaaaaaabapapaqapapabababadadadadadadadadadadadadabarasataaaa
+aaaaaaabadadadadauauauabadadadavawawawavadadadadabaxayazaaaa
+aaaaaaabadadadadadauauabadadadaAawawawaBadadadadaCayayazaaaa
+aaaaaaabadadadadadadauabaDadadaEawawawaFadadadadabaGaGaHaaaa
+aaaaaaabadadadadadadadaIadadadaJawawawaKadadadadabaaaaaaaaaa
+aaaaaaabadadadadadadadabadadadaLawawawaMadadadaNabaaaaaaaaaa
+aaaaaaabadadadadadadaOabanadadadadadadadadadadadaoaaaaaaaaaa
+aaaaaaabadadaAaPaQaRaSabadadadadadadadadadadadadabaaaaaaaaaa
+aaaaaaababababababababababababababababaTabababababaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaUayayaVayazaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWaGaGaGaGaHaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
+
+(1,1,2) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaXaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaYaZaaaaaaaaaa
+aaaaaababbbbbbbbbbbbbcbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaababbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaababaoaoababbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaabavadadavabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaaoadadadavabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaabavadadavabbbbbbbbbbbbbbbbebbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaabavadadadbfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaabavadadadbfbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaabavadadavabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaaoadadadavabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaabavadadavabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbdaaaaaaaaaa
+aaaaaaababaoaoababbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbhaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
