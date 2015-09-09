@@ -142,7 +142,7 @@ ship/equipment/science
 			name = "Electrolyser"
 			desc = "Apply a flask to mix chemicals with the electrolyser."
 			icon = 'Icons/Chemicals/Science/Electrolyzer.dmi'
-			operation = MAT_MUL
+			operation = MAT_XOR
 			Display(mob/M)
 				flick("on",src)
 				M.Sound('Sounds/Chemicals/Zap.ogg')

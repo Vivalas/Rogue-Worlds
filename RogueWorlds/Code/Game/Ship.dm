@@ -76,6 +76,8 @@ proc
 	ChangeSpeed(n)
 		if(n > 3) n = 0
 		ship_speed = n
+		if(!ship_speed)
+			UpdateSky("hover")
 		for(var/ship/equipment/console/throttle/T)
 			T.UpdateSpeed()
 

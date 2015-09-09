@@ -153,7 +153,7 @@
 #include "Lib\SD-HSL.dm"
 #include "Lib\SDMath.dm"
 #include "Lib\Theodis-QuickSort.dm"
-#include "Maps\SmallShip.dmm"
+#include "Maps\Airship.dmm"
 // END_INCLUDE
 
 #define DEBUG

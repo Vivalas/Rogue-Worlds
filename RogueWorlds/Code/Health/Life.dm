@@ -22,3 +22,6 @@ mob/human/Life()
 	if(recovery_damage > 0.05) recovery_damage -= 0.05
 	else recovery_damage = 0
 
+	HealthUpdate()
+	HealthChanged()
+

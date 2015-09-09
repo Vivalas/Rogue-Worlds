@@ -18,6 +18,9 @@ item/healing
 					else
 						M.VisualMessage("<font color=#00AA00>[M.DisplayName()] applied a suture to [O.DisplayName()]'s wounds.</font color>")
 					Consume()
+
+				else
+					M << "You can't find any wounds to mend!"
 			else
 				. = ..()
 
@@ -37,5 +40,7 @@ item/healing
 						M.VisualMessage("<font color=#00AA00>[M.DisplayName()] removed foreign objects from [PosPronoun(M)] body.</font color>")
 					else
 						M.VisualMessage("<font color=#00AA00>[M.DisplayName()] removed foreign objects from [O.DisplayName()]'s body.</font color>")
+				else
+					M << "You can't find any foreign objects to remove!"
 			else
 				. = ..()

@@ -19,7 +19,7 @@ mob/human
 		critical = 0
 		dead = 0
 	HealthUpdate()
-		if(GetStamina() < 100) Stamina(-1)
+		if(GetStamina() < 100) Stamina(-0.10)
 		if(blunt_damage > 0 && last_damage < world.time - 80) Healing("Blunt",0.5)
 
 	StunChanged()
@@ -83,9 +83,10 @@ mob/human
 	//#################
 
 	GetStamina()
-		return 100
+		return stamina
 
 	Stamina(n)
+		stamina = max(0,stamina-n)
 		HealthChanged()
 
 	Stun(source, time = 0)
@@ -97,6 +98,7 @@ mob/human
 		StunChanged()
 
 	UnStun(source)
+		if(dead) return
 		stun_list.Remove(source)
 		if(stun_list.len == 0)
 			is_stunned = 0
@@ -112,6 +114,7 @@ mob/human
 		StunChanged()
 
 	Up(source)
+		if(dead) return
 		ko_list.Remove(source)
 		if(ko_list.len == 0)
 			is_down = 0

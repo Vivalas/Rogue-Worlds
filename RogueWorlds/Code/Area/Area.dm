@@ -12,4 +12,14 @@ area
 		luminosity = 1
 
 	start
+		icon_state = "start"
 	border
+		icon_state = "border"
+
+
+
+area
+
+	New()
+		..()
+		icon_state = null
