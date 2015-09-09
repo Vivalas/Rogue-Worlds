@@ -20,6 +20,9 @@ $RECYCLE.BIN/
 *.int
 *.lk
 
+# BYOND directories
+RogueWorlds/Save
+
 # =========================
 # Operating System Files
 # =========================
