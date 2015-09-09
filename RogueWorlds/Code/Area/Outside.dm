@@ -16,6 +16,14 @@ area/outside
 			s.volume = 50
 			M << s
 
+
+	transit
+		icon_state = "dark"
+
+		bridge_start
+
+		bridge_end
+
 //A border area. Goes on the outside of the ship, and makes points where outside light floods in.
 area/outside/border
 	icon_state = "clear"

@@ -143,6 +143,7 @@
 #include "Code\Tiles\Wall.dm"
 #include "Code\Tiles\WallFrame.dm"
 #include "Code\Tiles\Window.dm"
+#include "Code\World\MoveStuff.dm"
 #include "Code\World\SkyTile.dm"
 #include "Code\World\World.dm"
 #include "Interface\Main.dmf"

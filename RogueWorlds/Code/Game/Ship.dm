@@ -163,3 +163,26 @@ ship/equipment
 					else
 						lever.icon_state = "off"
 				overlays += lever
+
+
+mob/verb/test_move()
+	MoveBridge()
+var/bridge_state = 1 //1 = docked, 0 = not docked
+proc/MoveBridge() //simple proc which moves the "docking" bridge back and forth to simulate docking ala SS13-esque move_contents_to code
+	dbg("Starting move system")
+	var/area/outside/transit/bridge_start/start = locate(/area/outside/transit/bridge_start)
+	var/area/outside/transit/bridge_end/end = locate(/area/outside/transit/bridge_end)
+	dbg(" BRIDGE STATE: [bridge_state]")
+	switch(bridge_state)
+
+		if(1)
+			dbg("Moving contents to end")
+			start.move_contents_to(end)
+			bridge_state = 0
+
+
+
+		if(0)
+			dbg("Moving contents to start")
+			start.move_contents_to(start)
+			bridge_state = 1
