@@ -184,5 +184,5 @@ proc/MoveBridge() //simple proc which moves the "docking" bridge back and forth 
 
 		if(0)
 			dbg("Moving contents to start")
-			start.move_contents_to(start)
+			end.move_contents_to(start)
 			bridge_state = 1

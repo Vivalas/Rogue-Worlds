@@ -22,6 +22,14 @@ item/weapon
 		weapon = new(damagetype = "Blunt", damage=6, to_hit = 14, exertion = 3, def_bonus = 5, ko_damage = 8, hit_sounds = BLUNT_SOUNDS,
 		block_sounds = BLOCK_SOUNDS, hit_icon = 'Icons/Interface/CombatStrike.dmi')
 
+	baton
+		name = "Security Baton"
+		desc = "Use this when ya wanna give a prisonner the jailhouse delight."
+		icon = 'Baton.dmi'
+		weight = 3
+		weapon = new(damagetype = "Blunt", damage=2, to_hit = 20, exertion = 2, def_bonus = 3, ko_damage = 20, hit_sounds = BLUNT_SOUNDS,
+		block_sounds = BLOCK_SOUNDS, hit_icon = 'Icons/Interface/CombatStrike.dmi')
+
 	gun
 		/*
 		Revolver DPS: 20-8/0.8 = 15

@@ -1,3 +1,5 @@
+
+
 area/proc/move_contents_to(var/area/A, var/turftoleave=null, var/direction = null)
 	//Takes: Area. Optional: turf type to leave behind.
 	//Returns: Nothing.
@@ -72,6 +74,8 @@ area/proc/move_contents_to(var/area/A, var/turftoleave=null, var/direction = nul
 					for(var/obj/O in T)
 						if(!istype(O,/obj)) continue // If we need to check for more mobs, I'll add a variable
 						O.loc = X
+						if(istype(O,/tile))
+							X.AddBuilding()
 					toupdate += X
 
 					if(turftoleave)
