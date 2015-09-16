@@ -57,6 +57,7 @@ proc
 						ship_completion = 0
 						ChangeSpeed(0)
 						UpdateSky("hover")
+						MoveBridge()
 					return
 
 			if(ship_completion > time_to_port - 600 && !landing)
@@ -71,12 +72,13 @@ proc
 			Announce("[ship_name] has departed, and will arrive over [GetNextPort()] in [num2text(time_to_port/600,3)] minutes.")
 			ship_flying = 1
 			UpdateSky("")
+			MoveBridge()
 
 
 	ChangeSpeed(n)
 		if(n > 3) n = 0
 		ship_speed = n
-		if(!ship_speed)
+		if(!ship_speed||!ship_flying)
 			UpdateSky("hover")
 		for(var/ship/equipment/console/throttle/T)
 			T.UpdateSpeed()

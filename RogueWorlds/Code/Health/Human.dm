@@ -19,8 +19,8 @@ mob/human
 		critical = 0
 		dead = 0
 	HealthUpdate()
-		if(GetStamina() < 100) Stamina(-0.10)
-		if(blunt_damage > 0 && last_damage < world.time - 80) Healing("Blunt",0.5)
+		if(GetStamina() < 100) Stamina(-0.20)
+		if(blunt_damage > 0 && last_damage < world.time - 80) Healing("Blunt",0.10)
 
 	StunChanged()
 		setIconState(GetStunState())
