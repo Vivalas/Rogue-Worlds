@@ -131,6 +131,7 @@
 #include "Code\Ship Parts\Box.dm"
 #include "Code\Ship Parts\Door.dm"
 #include "Code\Ship Parts\Ladder.dm"
+#include "Code\Ship Parts\Mooring.dm"
 #include "Code\Ship Parts\Railing.dm"
 #include "Code\Ship Parts\Ship.dm"
 #include "Code\Ship Parts\Furniture\Bed.dm"
